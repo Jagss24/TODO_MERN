@@ -1,0 +1,15 @@
+.about {
+    width: 100%;
+    /* min-height: 100vh; */
+    /* max-height: auto; */
+}
+
+.about p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.about h1 {
+    border-bottom: 1px solid rgba(255, 0, 0, 0.86);
+    
+}
